@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to 赵侦翔
+title: Welcome to not pure poole
 date: 2022-05-30 11:14 +0800
 last_modified_at: 2022-05-30 11:14:25 +0800
 tags: [jekyll theme, jekyll, tutorial, blog]
